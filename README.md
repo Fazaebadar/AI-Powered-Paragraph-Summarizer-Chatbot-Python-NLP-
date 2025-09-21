@@ -1,6 +1,3 @@
-Perfect 🚀 You uploaded your **Text Summary** project. Since you want a **README**, I’ll draft a professional and clear one that explains your project, setup, usage, and features. Here’s a complete version you can drop into your repo:
-
----
 
 # 📝 Text Summarization Chatbot
 
